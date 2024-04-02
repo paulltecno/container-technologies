@@ -1,2 +1,2 @@
 # container-technologies
-Container Technologies Pipeline Docker build image
+Pipeline Docker build image
